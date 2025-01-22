@@ -1,0 +1,24 @@
+body{background-color: rgb(221, 224, 224);}
+button{
+    width: 240px;
+    height: 83px;
+    font-size: 30px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.calculator{margin-left: 65px;}
+h1{
+    font-size: 60px;
+    border: solid;
+    width: 1210px;
+    height: 70px;
+    margin-left: 65px;
+    background-color: rgb(136, 133, 133);
+    color: rgb(255, 255, 255);
+    border-color:rgb(65, 59, 59);
+}
+h2{
+    margin-left: 65px;
+    color: rgb(85, 92, 92);
+    font-size: 45px ;
+}
